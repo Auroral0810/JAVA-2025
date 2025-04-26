@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;GamePanel.java&apos; to &apos;Plane2025/src&apos;&#x0A;- Original project: &apos;Snake2025&apos;&#x0A;- Destination element: &apos;Plane2025/src&apos;&#x0A;- Original element: &apos;GamePanel.java&apos;" description="Copy compilation unit" destination="=Plane2025/src" element1="/src&lt;{GamePanel.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1745629119715" units="1" version="1.0"/>
-</session>
