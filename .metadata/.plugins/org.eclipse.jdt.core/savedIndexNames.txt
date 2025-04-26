@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+/Users/auroral/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+3686811248.index
+598560775.index
+1865797976.index
+147388940.index

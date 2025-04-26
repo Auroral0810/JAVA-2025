@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/Users/auroral/Library/Java/JavaVirtualMachines/openjdk-21.0.1/Contents/Home" version="21.0.1"/>
+    <libraryInfo home="/Users/auroral/Library/Java/JavaVirtualMachines/openjdk-22.0.2/Contents/Home" version="22.0.2"/>
+    <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home" version="22.0.2"/>
+    <libraryInfo home="/Users/auroral/Library/Java/JavaVirtualMachines/corretto-11.0.24/Contents/Home" version="11.0.24"/>
+    <libraryInfo home="/Users/auroral/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home" version="22.0.1"/>
+    <libraryInfo home="/Users/auroral/Library/Java/JavaVirtualMachines/corretto-1.8.0_392/Contents/Home" version="1.8.0_392">
+        <bootpath>
+            <entry path="/Users/auroral/Library/Java/JavaVirtualMachines/corretto-1.8.0_392/Contents/Home/jre/lib/resources.jar"/>
+            <entry path="/Users/auroral/Library/Java/JavaVirtualMachines/corretto-1.8.0_392/Contents/Home/jre/lib/rt.jar"/>
+            <entry path="/Users/auroral/Library/Java/JavaVirtualMachines/corretto-1.8.0_392/Contents/Home/jre/lib/sunrsasign.jar"/>
+            <entry path="/Users/auroral/Library/Java/JavaVirtualMachines/corretto-1.8.0_392/Contents/Home/jre/lib/jsse.jar"/>
+            <entry path="/Users/auroral/Library/Java/JavaVirtualMachines/corretto-1.8.0_392/Contents/Home/jre/lib/jce.jar"/>
+            <entry path="/Users/auroral/Library/Java/JavaVirtualMachines/corretto-1.8.0_392/Contents/Home/jre/lib/charsets.jar"/>
+            <entry path="/Users/auroral/Library/Java/JavaVirtualMachines/corretto-1.8.0_392/Contents/Home/jre/lib/jfr.jar"/>
+            <entry path="/Users/auroral/Library/Java/JavaVirtualMachines/corretto-1.8.0_392/Contents/Home/jre/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/Users/auroral/Library/Java/Extensions"/>
+            <entry path="/Users/auroral/Library/Java/JavaVirtualMachines/corretto-1.8.0_392/Contents/Home/jre/lib/ext"/>
+            <entry path="/Library/Java/Extensions"/>
+            <entry path="/Network/Library/Java/Extensions"/>
+            <entry path="/System/Library/Java/Extensions"/>
+            <entry path="/usr/lib/java"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/Users/auroral/Library/Java/JavaVirtualMachines/corretto-1.8.0_392/Contents/Home/jre/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home" version="1.8.0_421">
+        <bootpath>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/resources.jar"/>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/rt.jar"/>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jsse.jar"/>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jce.jar"/>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/charsets.jar"/>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jfr.jar"/>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/Users/auroral/Library/Java/Extensions"/>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext"/>
+            <entry path="/Library/Java/Extensions"/>
+            <entry path="/Network/Library/Java/Extensions"/>
+            <entry path="/System/Library/Java/Extensions"/>
+            <entry path="/usr/lib/java"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/Users/auroral/Library/Java/JavaVirtualMachines/corretto-17.0.13/Contents/Home" version="17.0.13"/>
+    <libraryInfo home="/Users/auroral/Library/Java/JavaVirtualMachines/azul-16.0.2/Contents/Home" version="16.0.2"/>
+</libraryInfos>
